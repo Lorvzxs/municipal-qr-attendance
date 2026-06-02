@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
-  <rect width="120" height="120" rx="20" fill="#065f46"/>
-  <rect x="20" y="20" width="30" height="30" rx="4" fill="#10b981"/>
-  <rect x="55" y="20" width="30" height="30" rx="4" fill="#34d399"/>
-  <rect x="20" y="55" width="30" height="30" rx="4" fill="#34d399"/>
-  <rect x="55" y="55" width="30" height="30" rx="4" fill="#10b981"/>
-  <text x="60" y="105" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="10" font-weight="bold">QR ATTENDANCE</text>
-</svg>
